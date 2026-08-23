@@ -4,7 +4,8 @@
 
 This project analyzes an Electric Vehicle (EV) dataset to answer a simple but often overlooked question: what does "best vehicle" actually mean, and does the answer change depending on who is asking.
 
-Using a weighted **Business Score** built from three factors — Energy Efficiency, Recharge Time, and Motor Power — I designed three buyer personas (Balanced Buyer, Daily Commuter, and Performance Enthusiast) to see how vehicle rankings shift when priorities shift. The project combines SQL for analysis, Excel for the underlying calculations, and Power BI for the interactive dashboard.
+Using a weighted **Business Score** built from three factors — Energy Efficiency, Recharge Time, and Motor Power 
+— I designed three buyer personas (Balanced Buyer, Daily Commuter, and Performance Enthusiast) to see how vehicle rankings shift when priorities shift. The project combines SQL for analysis, Excel for the underlying calculations, and Power BI for the interactive dashboard.
 
 ## Business Score Methodology
 
