@@ -51,7 +51,7 @@ The SQL script in this repo answers the following:
 |---|---|
 | `EV_Business_Score_Analysis.sql` | SQL queries answering the business questions above |
 | `EV_Analysis_Insight_Page.docx` | One-page written summary of key insights |
-| Dashboard screenshots | Power BI dashboard views by persona |
+| (https://app.powerbi.com/view?r=eyJrIjoiOTA3ZDM3YzYtMTAyMC00ZmRhLTgyMjEtNzk4MWQ3NWY3NTFiIiwidCI6IjYwOWIwOTA5LTNiYTgtNDAwNy1iNmZjLTU2Yzk4NGFkN2VmYSJ9&embedImagePlaceholder=true) | Power BI dashboard views by persona |
 
 ## About
 
